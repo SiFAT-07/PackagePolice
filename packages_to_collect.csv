@@ -1,0 +1,11 @@
+ecosystem,package_name,version,label
+npm,lodash,4.17.21,benign
+npm,axios,1.7.2,benign
+npm,chalk,5.3.0,benign
+pypi,requests,2.31.0,benign
+pypi,click,8.1.7,benign
+pypi,numpy,1.26.4,benign
+npm,000webhost-admin,999.9.9,malicious
+npm,0vulns-dependency-confusion-poc,1.0.0,malicious
+npm,0x-smart-contracts,99.99.99,malicious
+npm,0xmisoke,1.0.0,malicious
