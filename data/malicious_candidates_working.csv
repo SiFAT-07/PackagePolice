@@ -1,0 +1,9 @@
+ecosystem,package_name,version,label
+npm,@digicroz/typed-api-kit,1.0.3,malicious
+npm,@krentzen/buffer-reverse,1.0.3,malicious
+npm,notifications-broadcast,99.9.1,malicious
+npm,@chunklab/hexparse,1.1.7,malicious
+pypi,dlty,0.0.10,malicious
+pypi,clearml-truen-patch,2.1.3.post6,malicious
+pypi,cch-agent,0.1.2,malicious
+pypi,wdt-erpmcp,0.1.7,malicious

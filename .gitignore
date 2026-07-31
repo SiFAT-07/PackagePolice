@@ -1,5 +1,7 @@
 quarantine/
+raw/
 logs/
-*.tgz
-*.whl
-*.tar.gz
+embeddings/
+models/
+__pycache__/
+*.pyc

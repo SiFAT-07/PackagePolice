@@ -1,0 +1,9 @@
+ecosystem,package_name,version,label
+npm,instacart-ui,296.8.0,malicious
+npm,kagi_browser_ext,2.0.0,malicious
+npm,action-setup-enos,0.0.1,malicious
+npm,@su-doughnym/hubspot-loginui-poc,99.99.99,malicious
+pypi,pollow,1.0.0,malicious
+pypi,auto-backup-wsl,1.0.0,malicious
+pypi,pyfontslibrary,1.0.0,malicious
+pypi,geocommunes-geoportal,0.0.1,malicious
